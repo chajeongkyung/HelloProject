@@ -12,7 +12,8 @@
 <body>
 
 	별칭 -> 차정경
-	프로젝트에서 글을 써서 충돌을 만들자
+	hello world
+	
 </body>
 
 </html>
