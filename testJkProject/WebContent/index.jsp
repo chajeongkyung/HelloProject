@@ -11,8 +11,10 @@
 
 <body>
 
+<<<<<<< HEAD
 	별칭 -> 차정경
 	hello world
+	미안하다 늦어서
 	
 </body>
 
